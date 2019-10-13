@@ -14,7 +14,7 @@ module.exports = {
       '/api': {
         target: 'http://localhost:8081/',
         pathRewrite: {
-          '^/api':'/static/moc'
+          '^/api':'/static/mock'
         }
       }
     },
