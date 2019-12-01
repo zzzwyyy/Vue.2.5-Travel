@@ -1,6 +1,6 @@
 # Vue2.5构建去哪儿网
 
-一个仿去哪儿APP的移动端项目练习，有主页，详情页，城市列表页，组件化开发以及CSS样式预处理框架stylus,通过variable.styl设置样式变量，抽离出公用样式减少代码重复，也便于维护，还使用了vue-awesome-swiper、better-scroll、axios插件。
+一个仿去哪儿APP的移动端项目练习，有主页，详情页，城市列表页，组件化开发以及CSS样式预处理框架stylus,通过variable.styl设置样式变量，抽离出公用样式减少代码重复，也便于维护，还使用了vue-awesome-swiper、better-scroll、axios插件
 
 练习了使用Vue开发中常用的路由管理器Vue-Router来构建单页面应用，状态管理模式Vuex，异步处理方案axios, 使用了LocalStorage实现页面数据持久存储, 使用keep-alive对组件进行缓存，优化路由性能，结合activated生命周期钩子进行ajax请求优化。
 
